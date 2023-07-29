@@ -26,7 +26,7 @@ You can access the live website at: [https://ranjan-gericht-restaurant.netlify.a
 
 ## How to Contribute
 
-We appreciate and welcome contributions to improve this website. If you would like to contribute, please follow these steps:
+I appreciate and welcome contributions to improving this website. If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature-name`.
@@ -38,6 +38,6 @@ I will review your pull request, and if everything looks good, I will merge it i
 
 ## Support
 
-If you encounter any issues with the website or have any questions, please feel free to reach out to me at my linkedin - [https://www.linkedin.com/in/shubhankar-ranjan/].
+If you encounter any issues with the website or have any questions, please feel free to reach out to me at my LinkedIn - [https://www.linkedin.com/in/shubhankar-ranjan/].
 
-We value your feedback and will do our best to assist you with any concerns or queries you may have.
+I value your feedback and will do my best to assist you with any concerns or queries you may have.
